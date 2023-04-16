@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MDCW1</string>
+    <string name="google_maps_key">AIzaSyBEw78iu12_vXImtXwi76q-g4ctK4jlMAY</string>
+    <string name="back_button_text">Back</string>
+        <string-array name="sort_options">
+            <item>Magnitude (Highest to Lowest)</item>
+            <item>Magnitude (Lowest to Highest)</item>
+            <item>Date (Newest to Oldest)</item>
+            <item>Date (Oldest to Newest)</item>
+        </string-array>
+
+
+</resources>
